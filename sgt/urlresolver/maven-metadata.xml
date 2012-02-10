@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sgt</groupId>
+  <artifactId>urlresolver</artifactId>
+  <version>0.0.7-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120210175444</lastUpdated>
+  </versioning>
+</metadata>
